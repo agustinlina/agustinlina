@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Agustín and I'm a Programmer & Web Developer from Argentina 🇦🇷.</h2>
+<h2 align="left">Hi 👋! My name is Agustín and I'm a Programmer & Web Developer from Argentina.</h2>
 
 ###
 
